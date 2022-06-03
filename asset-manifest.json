@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/chartJs-test-task/static/js/main.9ea21545.js",
+    "static/media/background.png": "/chartJs-test-task/static/media/background.e16f7e5da92d2b05d898.png",
+    "index.html": "/chartJs-test-task/index.html",
+    "main.9ea21545.js.map": "/chartJs-test-task/static/js/main.9ea21545.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9ea21545.js"
+  ]
+}
