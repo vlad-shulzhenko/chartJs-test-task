@@ -16,7 +16,7 @@ ChartJs app represents building charting based on user's input.
 
 ### Installing
 * Fork and clone this repository
-* Go to folder `charts-test-task`
+* Go to folder `chartJs-test-task`
 * Run `yarn install` in your terminal
 * Run `yarn start` in your terminal to run `app`
 
